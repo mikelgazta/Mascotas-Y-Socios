@@ -1,0 +1,34 @@
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\bin\Debug\net6.0\Libreria.deps.json
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\bin\Debug\net6.0\Libreria.dll
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\bin\Debug\net6.0\Libreria.pdb
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\bin\Debug\net6.0\Data.dll
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\bin\Debug\net6.0\Modelos.dll
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\bin\Debug\net6.0\Modelos.pdb
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\bin\Debug\net6.0\Data.pdb
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.csproj.CopyComplete
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.dll
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\refint\Libreria.dll
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.pdb
+C:\Users\1daw3\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\ref\Libreria.dll
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\bin\Debug\net6.0\Libreria.deps.json
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\bin\Debug\net6.0\Libreria.dll
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\bin\Debug\net6.0\Libreria.pdb
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\bin\Debug\net6.0\Data.dll
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\bin\Debug\net6.0\Modelos.dll
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\bin\Debug\net6.0\Modelos.pdb
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\bin\Debug\net6.0\Data.pdb
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.csproj.AssemblyReference.cache
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.AssemblyInfoInputs.cache
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.AssemblyInfo.cs
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.csproj.CopyComplete
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.dll
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\refint\Libreria.dll
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\Libreria.pdb
+G:\Otros ordenadores\Mi PC\dev\Mascotas y Socios\src\Club\obj\Debug\net6.0\ref\Libreria.dll
